@@ -1,7 +1,7 @@
 # Bank-Management-System
 
 This is a simple console application written in C++ that simulates the basic operations of a bank management system.The program uses a switch statement to allow the user to choose from different options, such as creating a new account,
-depositing money, withdrawing money, checking balance, and closing an account.
+depositing money, withdrawing money, checking balance, and bank record.
 
 # How to Run the Program
 
